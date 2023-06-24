@@ -1,0 +1,18 @@
+Types of Qs:
+1.Priority Queue
+2.Circular Queue
+
+****************Priority queue**************
+jobs will be alloted as per the priority
+
+****************Circular Q******************
+*In normal queue concept even if there is space after
+ deleting items we would not be able to utilize those 
+ spaces in order to use of spaces we are coming to 
+ the concept called circular queue
+1. Initialising Circular Queue (front=rear=-1)
+2. Insertion happens at rear & Del happends at front
+3. Inserting first element (front=rear=0)
+4. Insertion from second element (rear=rear+1)& Insert|
+5. After deletion front element (front=front+1)
+ 

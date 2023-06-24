@@ -1,0 +1,37 @@
+*************************STACK***************************
+This follows LIFO 
+
+***********Stack Implementation**********
+1.Using Arrays
+2.Using Linked List
+3.Using input module 
+
+Note:Insertion and Deletion at one end of the stack(top)
+
+Inserting node at last and deleting node at the last becomes stack
+
+Method-2:
+While Implementing stack using linked list we can opt this method  also
+Here we do insert node at begining delete the head node or first  node
+
+Note:In this above two methods 2nd one is efficient
+     because in 1st method to do the pop method we
+     have to traverse till last node
+
+get combination of paranthesis has input and check 
+whether it is balanced or not
+
+********************************Queue*****************************
+Note:Insertion and deletion happens at two sides front and rear
+
+There are 3 converisons 
+Infix
+Prefix
+Postfix
+
+No two operators of same priority to stay in the stack
+2.Lowest priority operator cannot be placed before highest priority opeartor in the stack
+3. If anuy operator in b/w braces in the stack
+
+
+ 

@@ -1,0 +1,13 @@
+FLoys Algirithm is used to find out whether a linkedlist contain cycle or not
+
+1.To find out the meeting point if there is a cycle assigned to pointers to head node
+2.One pointer will jump 1 step another will jump 2 steps
+3.If they are meeting on one node they delacre LL contains cycle that node is meeting point
+
+Finding start node or cycle
+1. Assign two pointer one with head node another one with meeting point node
+2. Now both of them will jump one step at a time
+3. Where they are meeting is called starting node of the cycle
+
+Removing Cycle from Linked 
+1. Find out the node which is connected with starting of the cycle and make its next has null
